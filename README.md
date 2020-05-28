@@ -3,7 +3,11 @@ Academic Project: Dynamic Table
 
 Skills
 ========
-HTML, CSS, Javascript
+JavaScript, HTML, CSS
+
+Description
+=
+generate a dynamic table, rows, and cells and random number within a range of numbers and storing the values within the dynamically generated table.
 
 ScreenShots
 ============
