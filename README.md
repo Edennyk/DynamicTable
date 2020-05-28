@@ -1,8 +1,10 @@
 # DynamicTable
 Academic Project: Dynamic Table
+========
 
 Skills
 HTML, CSS, Javascript
+=======
 
 ScreenShots
 
