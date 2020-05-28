@@ -1,0 +1,40 @@
+body, html {
+        background-color: #27496d;
+        position: relative;
+        margin-left:auto;
+        margin-right:auto;
+        height: 100%;
+        width:100%;
+        font-weight: bold;
+        text-align:center;
+        font-family: 'Roboto', sans-serif;
+      }
+
+      table, th, td {
+        border: 2px solid #fff3cd;
+        margin-left:auto;
+        margin-right:auto;
+        text-align: center;
+        color:#fff3cd;
+      }
+
+      p { 
+          color: #ffe8df;
+        }
+
+        #btn {
+          border:3px solid #ffe8df;
+          font-family: 'Roboto', sans-serif;
+          height: 30px;
+          background-color: #aef4a4;
+          font-weight: bold ;
+
+        }
+    footer{
+            color:#ffe8df;
+            font-size:9px;
+            font-style:italic;
+        }
+      
+      
+   

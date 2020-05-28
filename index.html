@@ -1,0 +1,43 @@
+<!Doctype html>
+ <html>
+ <head>
+    <!--
+      COMP125
+      Assignment2
+
+      300888467
+      NAYUL KIM
+   -->
+   <meta charset="utf-8" />
+   <meta name="viewport" content="width=device-width,initial-scale=1.0">
+   <title>Dynamic Table</title>
+   <link rel="stylesheet" href="style.css"/>
+   <script src="main.js"></script>
+   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+   </head>
+   <body>
+    <h2><p id="p1">
+        <b>Dynamic Table</b></p></h2>
+        <br/><br/>
+         <table>
+            <tr>
+                <th>No. of Row </th>
+                <th>No. of Column</th>
+            </tr>
+            <tr>
+                <td><input type="text" name="rows" id="rows"/></td>
+                <td><input type="text" name="cols" id="cols"/></td>
+            </tr>
+        </table></p></html></br>
+
+<input id="btn" name="generate" type="button" value="Create Table" onclick='createTable();'/>
+<button id="btn" onclick="reloadFunction()">Reload the page</button>
+</br></br>
+
+    <!-- result table -->
+<div id="wrap"></div> 
+</br>
+<footer>
+&copy;Copyright COMP125_Assignment2_CentennialCollege_NAYUL KIM </footer>
+</br></br>
+</body>
